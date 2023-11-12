@@ -1,7 +1,0 @@
-2023-11-12 16:34:37,117 p=1496 u=dot n=ansible | test | SUCCESS => {
-    "ansible_facts": {
-        "discovered_interpreter_python": "/usr/bin/python3"
-    },
-    "changed": false,
-    "ping": "pong"
-}
